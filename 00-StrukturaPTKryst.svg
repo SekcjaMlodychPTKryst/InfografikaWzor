@@ -21,7 +21,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/"><title
-     id="title9884">Infografika - Wzor</title><sodipodi:namedview
+     id="title1752">Struktura PTKryst i Sekcji Młodych</title><sodipodi:namedview
      id="namedview7"
      pagecolor="#505050"
      bordercolor="#eeeeee"
@@ -32,15 +32,16 @@
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.70728237"
-     inkscape:cx="670.87774"
-     inkscape:cy="405.77853"
-     inkscape:window-width="1698"
-     inkscape:window-height="808"
-     inkscape:window-x="0"
+     inkscape:zoom="1.3136989"
+     inkscape:cx="630.66201"
+     inkscape:cy="462.43473"
+     inkscape:window-width="3008"
+     inkscape:window-height="1639"
+     inkscape:window-x="1512"
      inkscape:window-y="25"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="g6236" /><defs
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer3"
+     inkscape:lockguides="false" /><defs
      id="defs2"><rect
        x="1005.4551"
        y="188.60223"
@@ -64,114 +65,6 @@
          d="m 6,0 c -3,1 -7,3 -9,5 0,0 0,-4 2,-5 -2,-1 -2,-5 -2,-5 2,2 6,4 9,5 z"
          id="path8893" /></marker><clipPath
        clipPathUnits="userSpaceOnUse"
-       id="clipPath1329"><path
-         id="path1331"
-         style="display:inline;fill:#ff00ff;stroke-width:24.7751;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-         d="M 180.23339,-66.539966 6.0476505,21.389494 V 197.24848 L 180.23339,109.31897 Z"
-         sodipodi:nodetypes="ccccc" /></clipPath><clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath1678"><path
-         id="path1680"
-         style="display:inline;fill:#ff00ff;stroke-width:4.95501;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-         d="m 6.047645,21.389502 34.83715,17.585893 V 74.147191 L 6.047645,56.561289 Z"
-         sodipodi:nodetypes="ccccc" /></clipPath><clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath1689"><path
-         id="path1691"
-         style="display:inline;fill:#ff00ff;stroke-width:4.95501;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-         d="m 75.721943,21.389502 -34.837151,17.585893 3e-6,35.171796 34.837148,-17.585902 z"
-         sodipodi:nodetypes="ccccc" /></clipPath><clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath26139"><rect
-         style="display:inline;opacity:1;fill:#800080;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-         id="rect26141"
-         width="40"
-         height="80"
-         x="0"
-         y="0" /></clipPath><clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath26147"><rect
-         style="display:inline;opacity:1;fill:#ff00ff;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-         id="rect26149"
-         width="40"
-         height="80"
-         x="40"
-         y="0" /></clipPath><clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath1807"><rect
-         style="display:inline;fill:#ff00ff;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-         id="use1809"
-         width="40"
-         height="80"
-         x="40"
-         y="0" /></clipPath><clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath1833"><rect
-         style="display:inline;fill:#800080;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-         id="use1835"
-         width="40"
-         height="80"
-         x="0"
-         y="0" /></clipPath><clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath2062"><path
-         style="display:inline;fill:#00ffff;stroke:none;stroke-width:0.249139px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 9.329892,24.665009 v 30.67 L 39.999949,70.670065 70.669892,55.33506 V 24.665066 L 39.999945,9.3300648 Z"
-         id="use2064" /></clipPath><clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath2066"><path
-         style="display:inline;fill:#00ffff;stroke:none;stroke-width:0.249139px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 9.329892,24.665009 v 30.67 L 39.999949,70.670065 70.669892,55.33506 V 24.665066 L 39.999945,9.3300648 Z"
-         id="use2068" /></clipPath><clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath2078"><rect
-         style="display:inline;fill:#ff00ff;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-         id="use2080"
-         width="40"
-         height="80"
-         x="40"
-         y="0" /></clipPath><clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath2082"><rect
-         style="display:inline;fill:#800080;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-         id="use2084"
-         width="40"
-         height="80"
-         x="0"
-         y="0" /></clipPath><clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath6859"><path
-         style="display:inline;fill:#008080;stroke:none;stroke-width:0.284313px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="M 4.9998918,22.5 V 57.500001 L 39.999956,75.000065 74.999892,57.50006 V 22.500066 L 39.999952,5.0000649 Z"
-         id="use6861" /></clipPath><clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath6863"><path
-         style="display:inline;fill:#008080;stroke:none;stroke-width:0.284313px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="M 4.9998918,22.5 V 57.500001 L 39.999956,75.000065 74.999892,57.50006 V 22.500066 L 39.999952,5.0000649 Z"
-         id="use6865" /></clipPath><clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath2779"><rect
-         style="fill:#f9f9f9;stroke:none;stroke-width:0.99999;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
-         id="rect2781"
-         width="285"
-         height="199.99998"
-         x="6"
-         y="1.390775e-07"
-         inkscape:label="bg_cutout" /></clipPath><clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath1563"><path
-         d="M 0,-0.2 H 841.8 V 595 H 0 Z"
-         clip-rule="evenodd"
-         id="path1561" /></clipPath><clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath1573"><path
-         d="M 17,63.2 H 824.9 V 531.3 H 17 Z"
-         id="path1571" /></clipPath><clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath1825"><path
-         d="m 157.3,27.7 h 85.1 v 11.8 h -85.1 z"
-         id="path1823" /></clipPath><clipPath
-       clipPathUnits="userSpaceOnUse"
        id="clipPath19375"><rect
          style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999995;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:7.55906;paint-order:markers fill stroke;stop-color:#000000"
          id="rect19377"
@@ -179,40 +72,6 @@
          height="49.068455"
          x="38.96859"
          y="76.343742" /></clipPath><clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath1329-3"><path
-         id="path1331-5"
-         style="display:inline;fill:#ff00ff;stroke-width:24.7751;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-         d="M 180.23339,-66.539966 6.0476505,21.389494 V 197.24848 L 180.23339,109.31897 Z"
-         sodipodi:nodetypes="ccccc" /></clipPath><clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath1678-6"><path
-         id="path1680-1"
-         style="display:inline;fill:#ff00ff;stroke-width:4.95501;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-         d="m 6.047645,21.389502 34.83715,17.585893 V 74.147191 L 6.047645,56.561289 Z"
-         sodipodi:nodetypes="ccccc" /></clipPath><clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath1689-7"><path
-         id="path1691-9"
-         style="display:inline;fill:#ff00ff;stroke-width:4.95501;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-         d="m 75.721943,21.389502 -34.837151,17.585893 3e-6,35.171796 34.837148,-17.585902 z"
-         sodipodi:nodetypes="ccccc" /></clipPath><clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath26139-2"><rect
-         style="display:inline;opacity:1;fill:#800080;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-         id="rect26141-4"
-         width="40"
-         height="80"
-         x="0"
-         y="0" /></clipPath><clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath26147-8"><rect
-         style="display:inline;opacity:1;fill:#ff00ff;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-         id="rect26149-3"
-         width="40"
-         height="80"
-         x="40"
-         y="0" /></clipPath><clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath1807-9"><use
          x="0"
@@ -287,15 +146,6 @@
          style="display:inline;opacity:1"
          width="100%"
          height="100%" /></clipPath><clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath28707"><rect
-         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.862502;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:7.55906;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
-         id="rect28709"
-         width="5"
-         height="30.5"
-         x="103.5"
-         y="55.5"
-         ry="0" /></clipPath><clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath28725"><rect
          style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.40123;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:7.55906;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
@@ -1186,34 +1036,34 @@
            id="text31337"><tspan
              x="15.116905"
              y="29.359573"
-             id="tspan3675"><tspan
+             id="tspan2536"><tspan
                style="font-weight:bold"
-               id="tspan3673">Zarząd Towarzystwa
+               id="tspan2534">Zarząd Towarzystwa
 </tspan></tspan><tspan
              x="15.116905"
              y="33.592903"
-             id="tspan3677">kieruje działalnością </tspan><tspan
+             id="tspan2538">kieruje działalnością </tspan><tspan
              x="15.116905"
              y="37.826231"
-             id="tspan3679">towarzystwa i zwołuje
+             id="tspan2540">towarzystwa i zwołuje
 </tspan><tspan
              x="15.116905"
              y="42.059561"
-             id="tspan3681">walne zgromadzenia.
+             id="tspan2542">walne zgromadzenia.
 </tspan><tspan
              x="15.116905"
              y="46.29289"
-             id="tspan3683">Jest wybierany na
+             id="tspan2544">Jest wybierany na
 </tspan><tspan
              x="15.116905"
              y="50.52622"
-             id="tspan3685">3-letnią kadencję przez
+             id="tspan2546">3-letnią kadencję przez
 </tspan><tspan
              x="15.116905"
              y="54.75955"
-             id="tspan3689">walne zgromadzenie.<tspan
+             id="tspan2550">walne zgromadzenie.<tspan
    style="font-weight:bold"
-   id="tspan3687">
+   id="tspan2548">
 </tspan></tspan></text></g><text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,-53.5,0)"
@@ -1236,31 +1086,31 @@
            id="text33189"><tspan
              x="15.116905"
              y="29.359573"
-             id="tspan3693"><tspan
+             id="tspan2554"><tspan
                style="font-weight:bold"
-               id="tspan3691">Walne Zgromadzenie
+               id="tspan2552">Walne Zgromadzenie
 </tspan></tspan><tspan
              x="15.116905"
              y="33.592903"
-             id="tspan3695">składa się ze
+             id="tspan2556">składa się ze
 </tspan><tspan
              x="15.116905"
              y="37.826231"
-             id="tspan3697">wszystkich członków
+             id="tspan2558">wszystkich członków
 </tspan><tspan
              x="15.116905"
              y="42.059561"
-             id="tspan3699">towarzystwa. Spotyka
+             id="tspan2560">towarzystwa. Spotyka
 </tspan><tspan
              x="15.116905"
              y="46.29289"
-             id="tspan3701">się i przyjmuje nowych
+             id="tspan2562">się i przyjmuje nowych
 </tspan><tspan
              x="15.116905"
              y="50.52622"
-             id="tspan3705">członków raz do roku.<tspan
+             id="tspan2566">członków raz do roku.<tspan
    style="font-weight:bold"
-   id="tspan3703">
+   id="tspan2564">
 </tspan></tspan></text></g><rect
          style="fill:none;fill-opacity:1;stroke:#808080;stroke-width:1;stroke-linejoin:round;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
          id="rect36141"
@@ -1279,28 +1129,28 @@
            id="text36147"><tspan
              x="15.116905"
              y="29.359573"
-             id="tspan3709"><tspan
+             id="tspan2570"><tspan
                style="font-weight:bold"
-               id="tspan3707">Sekcja Młodych
+               id="tspan2568">Sekcja Młodych
 </tspan></tspan><tspan
              x="15.116905"
              y="33.592903"
-             id="tspan3711">jest sekcją tematyczną
+             id="tspan2572">jest sekcją tematyczną
 </tspan><tspan
              x="15.116905"
              y="37.826231"
-             id="tspan3713">Towarzystwa skupiającą
+             id="tspan2574">Towarzystwa skupiającą
 </tspan><tspan
              x="15.116905"
              y="42.059561"
-             id="tspan3715">i reprezentującą
+             id="tspan2576">i reprezentującą
 </tspan><tspan
              x="15.116905"
              y="46.29289"
-             id="tspan3717">interesy młodych </tspan><tspan
+             id="tspan2578">interesy młodych </tspan><tspan
              x="15.116905"
              y="50.52622"
-             id="tspan3719">krystalografów.</tspan></text></g><rect
+             id="tspan2580">krystalografów.</tspan></text></g><rect
          style="fill:none;fill-opacity:1;stroke:#808080;stroke-width:1;stroke-linejoin:round;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
          id="rect37276"
          width="56"
@@ -1318,29 +1168,29 @@
            id="text37280"><tspan
              x="15.116905"
              y="29.359573"
-             id="tspan3723"><tspan
+             id="tspan2584"><tspan
                style="font-weight:bold"
-               id="tspan3721">Zarząd Sekcji Młodych
+               id="tspan2582">Zarząd Sekcji Młodych
 </tspan></tspan><tspan
              x="15.116905"
              y="33.592903"
-             id="tspan3725">kieruje działalnością
+             id="tspan2586">kieruje działalnością
 </tspan><tspan
              x="15.116905"
              y="37.826231"
-             id="tspan3727">Sekcji. Jest wybierany
+             id="tspan2588">Sekcji. Jest wybierany
 </tspan><tspan
              x="15.116905"
              y="42.059561"
-             id="tspan3729">na roczną kadencję
+             id="tspan2590">na roczną kadencję
 </tspan><tspan
              x="15.116905"
              y="46.29289"
-             id="tspan3731">przez członków Sekcji
+             id="tspan2592">przez członków Sekcji
 </tspan><tspan
              x="15.116905"
              y="50.52622"
-             id="tspan3733">po wyborze kierownika.</tspan></text></g><rect
+             id="tspan2594">po wyborze kierownika.</tspan></text></g><rect
          style="fill:none;fill-opacity:1;stroke:#808080;stroke-width:1;stroke-linejoin:round;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
          id="rect37699"
          width="56"
@@ -1358,33 +1208,33 @@
            id="text37705"><tspan
              x="15.116905"
              y="29.359573"
-             id="tspan3737"><tspan
+             id="tspan2598"><tspan
                style="font-weight:bold"
-               id="tspan3735">Polskie Towarzystwo
+               id="tspan2596">Polskie Towarzystwo
 </tspan></tspan><tspan
              x="15.116905"
              y="33.592903"
-             id="tspan3741"><tspan
+             id="tspan2602"><tspan
    style="font-weight:bold"
-   id="tspan3739">Krystalograficzne</tspan>
+   id="tspan2600">Krystalograficzne</tspan>
 </tspan><tspan
              x="15.116905"
              y="37.826231"
-             id="tspan3743">wspiera rozwój badań
+             id="tspan2604">wspiera rozwój badań
 </tspan><tspan
              x="15.116905"
              y="42.059561"
-             id="tspan3745">naukowych i naukowców
+             id="tspan2606">naukowych i naukowców
 </tspan><tspan
              x="15.116905"
              y="46.29289"
-             id="tspan3747">wykorzystujących
+             id="tspan2608">wykorzystujących
 </tspan><tspan
              x="15.116905"
              y="50.52622"
-             id="tspan3751">metody krystalografii.<tspan
+             id="tspan2612">metody krystalografii.<tspan
    style="font-weight:bold"
-   id="tspan3749">
+   id="tspan2610">
 </tspan></tspan></text></g><rect
          style="fill:none;fill-opacity:1;stroke:#808080;stroke-width:1;stroke-linejoin:round;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
          id="rect38459"
@@ -1403,33 +1253,33 @@
            id="text38465"><tspan
              x="15.116905"
              y="29.359573"
-             id="tspan3755"><tspan
+             id="tspan2616"><tspan
                style="font-weight:bold"
-               id="tspan3753">Członkowie Towarzystwa
+               id="tspan2614">Członkowie Towarzystwa
 </tspan></tspan><tspan
              x="15.116905"
              y="33.592903"
-             id="tspan3757">są przyjmowani przez
+             id="tspan2618">są przyjmowani przez
 </tspan><tspan
              x="15.116905"
              y="37.826231"
-             id="tspan3759">Zarząd Towarzystwa
+             id="tspan2620">Zarząd Towarzystwa
 </tspan><tspan
              x="15.116905"
              y="42.059561"
-             id="tspan3761">i zobowiązani do
+             id="tspan2622">i zobowiązani do
 </tspan><tspan
              x="15.116905"
              y="46.29289"
-             id="tspan3763">aktywnej realizacji
+             id="tspan2624">aktywnej realizacji
 </tspan><tspan
              x="15.116905"
              y="50.52622"
-             id="tspan3765">celów Towarzystwa
+             id="tspan2626">celów Towarzystwa
 </tspan><tspan
              x="15.116905"
              y="54.75955"
-             id="tspan3767">oraz opłacania składek.</tspan></text></g><rect
+             id="tspan2628">oraz opłacania składek.</tspan></text></g><rect
          style="fill:none;fill-opacity:1;stroke:#808080;stroke-width:1.07292;stroke-linejoin:round;stroke-dasharray:1.07292, 1.07292;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
          id="rect39209"
          width="55.927078"
@@ -1447,35 +1297,35 @@
            id="text39213"><tspan
              x="15.116905"
              y="29.359573"
-             id="tspan3771"><tspan
+             id="tspan2632"><tspan
                style="font-weight:bold"
-               id="tspan3769">Kierownik Sekcji
+               id="tspan2630">Kierownik Sekcji
 </tspan></tspan><tspan
              x="15.116905"
              y="33.592903"
-             id="tspan3775"><tspan
+             id="tspan2636"><tspan
    style="font-weight:bold"
-   id="tspan3773">Młodych</tspan> jest formalnym
+   id="tspan2634">Młodych</tspan> jest formalnym
 </tspan><tspan
              x="15.116905"
              y="37.826231"
-             id="tspan3777">zwierzchnikiem PYC.
+             id="tspan2638">zwierzchnikiem PYC.
 </tspan><tspan
              x="15.116905"
              y="42.059561"
-             id="tspan3779">Zostaje wybrany
+             id="tspan2640">Zostaje wybrany
 </tspan><tspan
              x="15.116905"
              y="46.29289"
-             id="tspan3781">corocznie przez Zarząd
+             id="tspan2642">corocznie przez Zarząd
 </tspan><tspan
              x="15.116905"
              y="50.52622"
-             id="tspan3783">Towarzystwa przy okazji
+             id="tspan2644">Towarzystwa przy okazji
 </tspan><tspan
              x="15.116905"
              y="54.75955"
-             id="tspan3785">Walnego Zgromadzenia.</tspan></text></g><rect
+             id="tspan2646">Walnego Zgromadzenia.</tspan></text></g><rect
          style="fill:none;fill-opacity:1;stroke:#808080;stroke-width:1;stroke-linejoin:round;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
          id="rect40439"
          width="56"
@@ -1493,53 +1343,53 @@
            id="text40443"><tspan
              x="15.116905"
              y="29.359573"
-             id="tspan3789"><tspan
+             id="tspan2650"><tspan
                style="font-weight:bold"
-               id="tspan3787">Członkowie Sekcji
+               id="tspan2648">Członkowie Sekcji
 </tspan></tspan><tspan
              x="15.116905"
              y="33.592903"
-             id="tspan3793"><tspan
+             id="tspan2654"><tspan
    style="font-weight:bold"
-   id="tspan3791">Młodych </tspan>są przyjmowani
+   id="tspan2652">Młodych </tspan>są przyjmowani
 </tspan><tspan
              x="15.116905"
              y="37.826231"
-             id="tspan3795">przez Zarząd Sekcji
+             id="tspan2656">przez Zarząd Sekcji
 </tspan><tspan
              x="15.116905"
              y="42.059561"
-             id="tspan3797">spośród Członków
+             id="tspan2658">spośród Członków
 </tspan><tspan
              x="15.116905"
              y="46.29289"
-             id="tspan3799">Towarzystwa na własny </tspan><tspan
+             id="tspan2660">Towarzystwa na własny </tspan><tspan
              x="15.116905"
              y="50.52622"
-             id="tspan3801">wniosek. Muszą być
+             id="tspan2662">wniosek. Muszą być
 </tspan><tspan
              x="15.116905"
              y="54.75955"
-             id="tspan3803">uczestnikami lub </tspan><tspan
+             id="tspan2664">uczestnikami lub </tspan><tspan
              x="15.116905"
              y="58.99288"
-             id="tspan3805">absolwentami
+             id="tspan2666">absolwentami
 </tspan><tspan
              x="15.116905"
              y="63.226209"
-             id="tspan3807">studiów I°, II°, III°
+             id="tspan2668">studiów I°, II°, III°
 </tspan><tspan
              x="15.116905"
              y="67.459539"
-             id="tspan3809">lub Szkoły Doktorskiej,
+             id="tspan2670">lub Szkoły Doktorskiej,
 </tspan><tspan
              x="15.116905"
              y="71.692869"
-             id="tspan3811">którzy nie ukończyli
+             id="tspan2672">którzy nie ukończyli
 </tspan><tspan
              x="15.116905"
              y="75.926199"
-             id="tspan3813">35. roku życia.</tspan></text></g><text
+             id="tspan2674">35. roku życia.</tspan></text></g><text
          xml:space="preserve"
          style="font-size:2.82222px;line-height:1;font-family:'Courier New';-inkscape-font-specification:'Courier New';text-align:center;text-decoration-color:#000000;letter-spacing:-0.132292px;text-anchor:middle;white-space:pre;inline-size:105.501;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:2.1, 1.05;stroke-dashoffset:0.750001;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
          x="179.50153"
@@ -1548,51 +1398,40 @@
          transform="translate(52.748047)"><tspan
            x="179.50153"
            y="177.23793"
-           id="tspan3817"><tspan
+           id="tspan2678"><tspan
              style="font-family:Courier;-inkscape-font-specification:Courier;text-align:start;text-anchor:start;stroke-width:0.5"
-             id="tspan3815">Źródła:
+             id="tspan2676">Źródła:
 </tspan></tspan><tspan
            x="179.50153"
            y="180.09084"
-           id="tspan3821"><tspan
+           id="tspan2682"><tspan
              style="font-family:Courier;-inkscape-font-specification:Courier;text-align:start;text-anchor:start;stroke-width:0.5"
-             id="tspan3819">- Statut Polskiego Towarzystwa Kryst.
+             id="tspan2680">- Statut Polskiego Towarzystwa Kryst.
 </tspan></tspan><tspan
            x="179.50153"
            y="182.94374"
-           id="tspan3825"><tspan
+           id="tspan2686"><tspan
              style="font-family:Courier;-inkscape-font-specification:Courier;text-align:start;text-anchor:start;stroke-width:0.5"
-             id="tspan3823">- Regulamin Wewnętrzny
+             id="tspan2684">- Regulamin Wewnętrzny
 </tspan></tspan><tspan
            x="179.50153"
            y="185.79665"
-           id="tspan3829"><tspan
+           id="tspan2690"><tspan
              style="font-family:Courier;-inkscape-font-specification:Courier;text-align:start;text-anchor:start;stroke-width:0.5"
-             id="tspan3827">  Sekcji Młodych PTKryst
+             id="tspan2688">  Sekcji Młodych PTKryst
 </tspan></tspan><tspan
            x="179.50153"
            y="188.64955"
-           id="tspan3833"><tspan
+           id="tspan2694"><tspan
              style="font-family:Courier;-inkscape-font-specification:Courier;text-align:start;text-anchor:start;stroke-width:0.5"
-             id="tspan3831">Opracowanie:
+             id="tspan2692">Opracowanie:
 </tspan></tspan><tspan
            x="179.50153"
            y="191.50246"
-           id="tspan3837"><tspan
+           id="tspan2698"><tspan
              style="font-family:Courier;-inkscape-font-specification:Courier;text-align:start;text-anchor:start;stroke-width:0.5"
-             id="tspan3835">  dr Daniel Tchoń
-</tspan></tspan><tspan
-           x="179.50153"
-           y="194.35536"
-           id="tspan3841"><tspan
-             style="font-family:Courier;-inkscape-font-specification:Courier;text-align:start;text-anchor:start;stroke-width:0.5"
-             id="tspan3839">Korekta merytoryczna:
-</tspan></tspan><tspan
-           x="179.50153"
-           y="197.20827"
-           id="tspan3845"><tspan
-             style="font-family:Courier;-inkscape-font-specification:Courier;text-align:start;text-anchor:start;stroke-width:0.5"
-             id="tspan3843">  xxx</tspan></tspan></text><g
+             id="tspan2696">  dr Daniel Tchoń
+</tspan></tspan></text><g
          id="g54694"
          transform="translate(0,-4)"><rect
            style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#dc143c;stroke-width:1;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
@@ -1656,10 +1495,10 @@
          ry="2"
          clip-path="url(#clipPath29335)"
          transform="translate(-3.5,-0.33121017)" /></g></g><metadata
-     id="metadata9882"><rdf:RDF><cc:License
+     id="metadata9882"><rdf:RDF><cc:Work
+         rdf:about=""><cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" /><dc:date>October 09, 2023</dc:date><dc:creator><cc:Agent><dc:title>Daniel Tchoń</dc:title></cc:Agent></dc:creator><dc:rights><cc:Agent><dc:title>CC0</dc:title></cc:Agent></dc:rights><dc:publisher><cc:Agent><dc:title>Sekcja Młodych PTKryst</dc:title></cc:Agent></dc:publisher><dc:language>PL</dc:language><dc:title>Struktura PTKryst i Sekcji Młodych</dc:title></cc:Work><cc:License
          rdf:about="http://creativecommons.org/publicdomain/zero/1.0/"><cc:permits
            rdf:resource="http://creativecommons.org/ns#Reproduction" /><cc:permits
            rdf:resource="http://creativecommons.org/ns#Distribution" /><cc:permits
-           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" /></cc:License><cc:Work
-         rdf:about=""><cc:license
-           rdf:resource="https://github.com/SekcjaMlodychPTKryst/InfografikaWzor/blob/main/LICENSE" /><dc:title>Infografika - Wzor</dc:title><dc:date>September 23, 2023</dc:date><dc:creator><cc:Agent><dc:title>Daniel Tchoń</dc:title></cc:Agent></dc:creator><dc:rights><cc:Agent><dc:title>CC0</dc:title></cc:Agent></dc:rights><dc:publisher><cc:Agent><dc:title>Sekcja Młodych PTKryst</dc:title></cc:Agent></dc:publisher><dc:language>PL</dc:language></cc:Work></rdf:RDF></metadata></svg>
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" /></cc:License></rdf:RDF></metadata></svg>
